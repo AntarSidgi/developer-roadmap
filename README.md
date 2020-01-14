@@ -56,7 +56,7 @@ If you think any of the roadmaps can be improved, feel free to discuss it in the
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/AntarSidgi.svg?style=social&label=Follow%20%40AntarSidgi)](https://twitter.com/AntarSidgi)
  
 ## License
 
